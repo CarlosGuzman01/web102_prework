@@ -1,5 +1,8 @@
 # WEB102 Prework - *Name of App Here*
 
+![Description of GIF](https://cdn.discordapp.com/attachments/856277942028075020/1277451968184324198/ezgif-1-e1d06fde07.gif?ex=66cd375b&is=66cbe5db&hm=2ba1fe752695921eefff1733180a1f296ec02c36168e13d7f126e0e14d870522&)
+
+
 Submitted by: **Your Name Here**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
